@@ -1,3 +1,5 @@
+console.log("Script loaded");
+
 function dispalyValue() {
   let searchInput = document.getElementById("input").value;
   document.getElementById("message").textContent = searchInput;
