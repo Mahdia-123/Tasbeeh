@@ -1,18 +1,18 @@
 {
-  "name": "Noor High School",
-  "short_name": "Noor",
-  "start_url": "index.html",
+  "name": "Tasbeeh App",
+  "short_name": "Tasbeeh",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#142e49",
+  "theme_color": "#28a745",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "appstore.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon-512.png",
+      "src": "playstore.png",
       "type": "image/png",
       "sizes": "512x512"
     }
